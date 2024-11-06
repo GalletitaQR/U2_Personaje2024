@@ -73,6 +73,7 @@ colores.
 
 ## Avance en el proyecto navideño
 Enlace del video:
+https://drive.google.com/file/d/1iv4O0mBlPXgTzPWA1Iy4z9cU0Vjv1heN/view?usp=sharing
 
 Los avances logrados hasta el momento es la obtención de todos los componentes a utilizar,
 esto nos permite que en el futuro la modelación sea de una manera más rápida. El prototipo
