@@ -1,10 +1,12 @@
 # U2_Personaje2024
 
-## Nombre del personaje:
+## Nombre del personaje
 ProtoSiervo
 
-## Creadores:
+
+## Creadores
 Gael Quintana Romero y Lizeth Rqmírez Ramírez
+
 
 ## Ejercicio integral de la unidad
 ### 6. Semáforo de Tráfico con Sensor de Distancia
@@ -16,6 +18,8 @@ si el objeto pasa la distancia limite.
 
 Archivo que contiene el video: 
 https://drive.google.com/file/d/1VOVmmOS49c8NmKiCzEVS97Xe_oyZTm-m/view?usp=sharing
+
+
 
 ## Ejercicios en clase en el uso de sensores, actuadores y ESP32
 
