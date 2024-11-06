@@ -6,11 +6,6 @@ ProtoSiervo
 ## Creadores:
 Gael Quintana Romero y Lizeth Rqmírez Ramírez
 
-## Expliacación de funcionamiento del personaje:
-Mi personaje al momento de que se acerca a 15 centimetros una persona o darle click
-a un botón, comienza a bailar y cantar de una manera muy fea. También se alumbrará
-y podrá ser controlado por control.
-
 ## Ejercicio integral de la unidad
 ### 6. Semáforo de Tráfico con Sensor de Distancia
 https://drive.google.com/file/d/1VOVmmOS49c8NmKiCzEVS97Xe_oyZTm-m/view?usp=sharing
