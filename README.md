@@ -23,16 +23,37 @@ Carpeta con todos los videos:
 https://drive.google.com/drive/folders/1SQ6eO0eT6lH7jQHxqoob0HJlQLpPBqCM?usp=sharing
 
 ### Ejercicio número 1
+En está actividad se puso a prueba un buzzer para reproducir meolodías a partir de pitidos.
+
 ### Ejercicio número 2
+En está actividad se puso a prueba un DHT11 mejor conocido como sensor de humedad y
+temperatura, así como un servo. El servo se moverá a partir de cierta temperatura 
+registrada por el sensor DHT11. 
+
 ### Ejercicio número 3
+En está actividad se prenden leds al ser activados por un botón, permanecen prendidos hasta que
+se vuelve a pulsar el botón. Esto simula las luces de una vivenda.
+
 ### Ejercicio número 4
+En está actividad se realiza la simulación de un semáforo, en conjunto de un sensor de 
+movimiento y unos leds, esté los activará. Si el sensor detecta movimiento en un distancia
+no tan lejana, prenderá el led amarillo, en caso de que este muy cerca, prenderá el led rojo,
+dependiendo si la distancia sea muy lejana, este permanecerá verde.
+
 ### Ejercicio número 5
+
 ### Ejercicio número 6
+
 ### Ejercicio número 7
+
 ### Ejercicio número 8
+
 ### Ejercicio número 9
+
 ### Ejercicio número 10
+
 ### Ejercicio número 11
+
 
 
 ## Imágen de la captura de pantalla de los examenes de cisco Python
