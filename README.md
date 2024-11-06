@@ -93,3 +93,9 @@ por medio del buzzer, y las luces adornan al muñeco y sus alrededores.
 ### Exámen final
 ![image](https://github.com/user-attachments/assets/e46c9944-c755-41aa-a53b-0da5030941d1)
 
+### Capturas de pantalla que demuestren el avance
+https://drive.google.com/drive/folders/1FE3LbaDT8tEFuZBK-r209vajVLnCWx9r?usp=sharing
+
+¿Cómo aplicaría los conocimientos adquiridos en Python al proyecto?
+
+
