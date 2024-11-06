@@ -13,6 +13,7 @@ y podrá ser controlado por control.
 
 ## Ejercicio integral de la unidad
 ### 6. Semáforo de Tráfico con Sensor de Distancia
+https://drive.google.com/file/d/1VOVmmOS49c8NmKiCzEVS97Xe_oyZTm-m/view?usp=sharing
 
 
 ### Componente visual que representa un personaje navideño.
