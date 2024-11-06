@@ -106,3 +106,13 @@ Además, los conceptos de manipulación de datos serán útiles para manejar las
 También aprovecharé la gestión de errores en Python para asegurar que el ciervo funcione sin problemas, manejando posibles fallos en sensores o interacciones de manera que no interrumpan la experiencia del usuario. Los conceptos de bucles y condicionales permiten crear secuencias animadas para el ciervo, haciendo que sus movimientos y expresiones se activen en un orden natural y acorde con el ambiente festivo. 
 
 En conjunto, estos principios básicos de Python serán fundamentales para hacer del muñeco navideño una pieza interactiva y entretenida, que responda de manera dinámica a su entorno y a la interacción del usuario.
+
+##  Coevaluación
+Describe  tu compañero y  en su ejercicio.
+Tu retroalimentación debe ser específica y de ayuda, enfocada en aspectos técnicos, claridad en la explicación, o calidad del circuito y código.
+Realiza esta evaluación en un formato breve y claro para que tu compañero pueda usarla para mejorar.
+En el README.md, crea un apartado de coevaluación donde describas qué hizo bien tu compañero, qué puede mejorar, y si hubo algún aspecto técnico o de calidad que resaltar.
+Adjunta esta coevaluación en formato de texto claro y objetivo.
+
+
+
