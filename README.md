@@ -14,11 +14,26 @@ Es un prototipo de un semáforo de tráfico que detecta si un objeto está cerca
 rojo a verde. Un botón reinicia el semáforo. Por otro lado, el buzzer emite una señal de alerta
 si el objeto pasa la distancia limite.
 
+Archivo que contiene el video: 
 https://drive.google.com/file/d/1VOVmmOS49c8NmKiCzEVS97Xe_oyZTm-m/view?usp=sharing
 
 ## Ejercicios en clase en el uso de sensores, actuadores y ESP32
 
+Carpeta con todos los videos:
 https://drive.google.com/drive/folders/1SQ6eO0eT6lH7jQHxqoob0HJlQLpPBqCM?usp=sharing
+
+### Ejercicio número 1
+### Ejercicio número 2
+### Ejercicio número 3
+### Ejercicio número 4
+### Ejercicio número 5
+### Ejercicio número 6
+### Ejercicio número 7
+### Ejercicio número 8
+### Ejercicio número 9
+### Ejercicio número 10
+### Ejercicio número 11
+
 
 ## Imágen de la captura de pantalla de los examenes de cisco Python
 ### Modulo 1
