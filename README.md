@@ -65,11 +65,11 @@ prendiendo leds a una determinada velocidad, dando la ilusión  de que se recorr
 En esta actividad se hizo la reflexión del porcentaje del potenciometro en la MAX7219 de led.
 
 ### Ejercicio número 10
-
+En esta actividad se hizo la configuración y la implementación del motor a pasos.
 
 ### Ejercicio número 11
-
-
+En está actividad, dependiendo la dirección del joystick se prende el led rgb en diferentes
+colores.
 
 ## Imágen de la captura de pantalla de los examenes de cisco Python
 ### Modulo 1
