@@ -97,5 +97,12 @@ por medio del buzzer, y las luces adornan al muñeco y sus alrededores.
 https://drive.google.com/drive/folders/1FE3LbaDT8tEFuZBK-r209vajVLnCWx9r?usp=sharing
 
 ¿Cómo aplicaría los conocimientos adquiridos en Python al proyecto?
+Para aplicar los principios básicos de Python en el proyecto del muñeco navideño, un ciervo, utilizaré las técnicas que he aprendido en el curso para darle funcionalidad y mejorar su interactividad.
 
+Por ejemplo, la estructura de control en Python será clave para definir comportamientos básicos del ciervo, como cambiar de expresión o realizar ciertos movimientos al detectar una entrada específica del usuario, como un toque o una señal sonora. Utilizando funciones, puedo organizar y reutilizar las diferentes acciones del muñeco, lo que facilita la programación de comportamientos variados y le da más vida al personaje. 
 
+Además, los conceptos de manipulación de datos serán útiles para manejar las interacciones que el ciervo tenga en tiempo real. Si el muñeco registra cambios en su ambiente, como la variación de luces o sonidos, podré procesar estos datos y generar respuestas en el ciervo, dándole una apariencia más “inteligente” y adaptativa. 
+
+También aprovecharé la gestión de errores en Python para asegurar que el ciervo funcione sin problemas, manejando posibles fallos en sensores o interacciones de manera que no interrumpan la experiencia del usuario. Los conceptos de bucles y condicionales permiten crear secuencias animadas para el ciervo, haciendo que sus movimientos y expresiones se activen en un orden natural y acorde con el ambiente festivo. 
+
+En conjunto, estos principios básicos de Python serán fundamentales para hacer del muñeco navideño una pieza interactiva y entretenida, que responda de manera dinámica a su entorno y a la interacción del usuario.
