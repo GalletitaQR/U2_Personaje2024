@@ -23,34 +23,45 @@ Carpeta con todos los videos:
 https://drive.google.com/drive/folders/1SQ6eO0eT6lH7jQHxqoob0HJlQLpPBqCM?usp=sharing
 
 ### Ejercicio número 1
-En está actividad se puso a prueba un buzzer para reproducir meolodías a partir de pitidos.
+En esta actividad se puso a prueba un buzzer para reproducir meolodías a partir de pitidos.
 
 ### Ejercicio número 2
-En está actividad se puso a prueba un DHT11 mejor conocido como sensor de humedad y
+En esta actividad se puso a prueba un DHT11 mejor conocido como sensor de humedad y
 temperatura, así como un servo. El servo se moverá a partir de cierta temperatura 
 registrada por el sensor DHT11. 
 
 ### Ejercicio número 3
-En está actividad se prenden leds al ser activados por un botón, permanecen prendidos hasta que
+En esta actividad se prenden leds al ser activados por un botón, permanecen prendidos hasta que
 se vuelve a pulsar el botón. Esto simula las luces de una vivenda.
 
 ### Ejercicio número 4
-En está actividad se realiza la simulación de un semáforo, en conjunto de un sensor de 
+En esta actividad se realizó la simulación de un semáforo, en conjunto de un sensor de 
 movimiento y unos leds, esté los activará. Si el sensor detecta movimiento en un distancia
 no tan lejana, prenderá el led amarillo, en caso de que este muy cerca, prenderá el led rojo,
 dependiendo si la distancia sea muy lejana, este permanecerá verde.
 
 ### Ejercicio número 5
+En esta actividad se hizo la simulación de una gasolinera, la cual al ser controlado por
+un potenciometro mostrará un porcentaje junto con una pequeña animación en la pantalla oled. 
 
 ### Ejercicio número 6
+En esta matriz de leds se programó de tal manera que muestre un nombre, funciona apagando y
+prendiendo leds a una determinada velocidad, dando la ilusión  de que se recorre la pantalla.
 
 ### Ejercicio número 7
+En este ejercicio se utilizó un sensor de movimiento y una matriz de leds. De tal modo que,
+cuando el sensor de movimiento detecta un sutil movimiento, este reflejará la distancia en
+la matriz de leds.
 
 ### Ejercicio número 8
+En este MAX7219 de leds se programó de tal manera que muestre un nombre, funciona apagando y
+prendiendo leds a una determinada velocidad, dando la ilusión  de que se recorre la pantalla.
 
 ### Ejercicio número 9
+En esta actividad se hizo la reflexión del porcentaje del potenciometro en la MAX7219 de led.
 
 ### Ejercicio número 10
+
 
 ### Ejercicio número 11
 
