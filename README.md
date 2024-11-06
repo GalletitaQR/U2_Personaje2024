@@ -71,6 +71,16 @@ En esta actividad se hizo la configuración y la implementación del motor a pas
 En está actividad, dependiendo la dirección del joystick se prende el led rgb en diferentes
 colores.
 
+## Avance en el proyecto navideño
+Enlace del video:
+
+Los avances logrados hasta el momento es la obtención de todos los componentes a utilizar,
+esto nos permite que en el futuro la modelación sea de una manera más rápida. El prototipo
+ya es capaz de realizar las operaciones que se planearon de manera exitosa, el HC-S04 
+obtiene uan distancia, si está cerca hace que se mueva la cabeza del venado y su cola, 
+tambien hace que se habra un regalo que dentro tendrá un led. Los botones ejecutan canciones
+por medio del buzzer, y las luces adornan al muñeco y sus alrededores.
+
 ## Imágen de la captura de pantalla de los examenes de cisco Python
 ### Modulo 1
 ### Modulo 2
