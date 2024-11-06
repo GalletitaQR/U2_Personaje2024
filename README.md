@@ -83,8 +83,13 @@ por medio del buzzer, y las luces adornan al muñeco y sus alrededores.
 
 ## Imágen de la captura de pantalla de los examenes de cisco Python
 ### Modulo 1
+![image](https://github.com/user-attachments/assets/6b499716-29ce-4406-a46d-a03e98a18ea9)
 ### Modulo 2
+![image](https://github.com/user-attachments/assets/92f614d6-4feb-432a-9141-fc882e26a642)
 ### Modulo 3
+![image](https://github.com/user-attachments/assets/f1f97dc2-0ff0-4d31-b68b-56019a48ac77)
 ### Modulo 4
-### Modulo 5
+![image](https://github.com/user-attachments/assets/6e040c56-86b3-4710-aa81-44f0d3feb51b)
 ### Exámen final
+![image](https://github.com/user-attachments/assets/e46c9944-c755-41aa-a53b-0da5030941d1)
+
