@@ -5,14 +5,14 @@ ProtoSiervo
 
 
 ## Creadores
-Gael Quintana Romero y Lizeth Rqmírez Ramírez
+Gael Quintana Romero y Lizeth Ramírez Ramírez
 
 
 ## Ejercicio integral de la unidad
 ### 6. Semáforo de Tráfico con Sensor de Distancia
-El ejercico reune los conocimientos de los principios de IoT, tal como el uso de sensores
-tales como HC-S04 así como el uso de corriente positiva y negativa como fuente de alimentación.
-Es un prototipo de un semáforo de tráfico que detecta si un objeto está cerca para cacmbiar de 
+El ejercicio reune los conocimientos de los principios de IoT, tal como el uso de sensores
+como HC-S04 así como el uso de corriente positiva y negativa como fuente de alimentación.
+Es un prototipo de un semáforo de tráfico que detecta si un objeto está cerca para cambiar de 
 rojo a verde. Un botón reinicia el semáforo. Por otro lado, el buzzer emite una señal de alerta
 si el objeto pasa la distancia limite.
 
@@ -27,7 +27,7 @@ Carpeta con todos los videos:
 https://drive.google.com/drive/folders/1SQ6eO0eT6lH7jQHxqoob0HJlQLpPBqCM?usp=sharing
 
 ### Ejercicio número 1
-En esta actividad se puso a prueba un buzzer para reproducir meolodías a partir de pitidos.
+En esta actividad se puso a prueba un buzzer para reproducir melodías a partir de pitidos.
 
 ### Ejercicio número 2
 En esta actividad se puso a prueba un DHT11 mejor conocido como sensor de humedad y
@@ -78,7 +78,7 @@ https://drive.google.com/file/d/1iv4O0mBlPXgTzPWA1Iy4z9cU0Vjv1heN/view?usp=shari
 Los avances logrados hasta el momento es la obtención de todos los componentes a utilizar,
 esto nos permite que en el futuro la modelación sea de una manera más rápida. El prototipo
 ya es capaz de realizar las operaciones que se planearon de manera exitosa, el HC-S04 
-obtiene uan distancia, si está cerca hace que se mueva la cabeza del venado y su cola, 
+obtiene una distancia, si está cerca hace que se mueva la cabeza del venado y su cola, 
 tambien hace que se habra un regalo que dentro tendrá un led. Los botones ejecutan canciones
 por medio del buzzer, y las luces adornan al muñeco y sus alrededores.
 
