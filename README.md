@@ -109,11 +109,13 @@ También aprovecharé la gestión de errores en Python para asegurar que el cier
 En conjunto, estos principios básicos de Python serán fundamentales para hacer del muñeco navideño una pieza interactiva y entretenida, que responda de manera dinámica a su entorno y a la interacción del usuario.
 
 ##  Coevaluación
-Describe  tu compañero y  en su ejercicio.
-Tu retroalimentación debe ser específica y de ayuda, enfocada en aspectos técnicos, claridad en la explicación, o calidad del circuito y código.
-Realiza esta evaluación en un formato breve y claro para que tu compañero pueda usarla para mejorar.
-En el README.md, crea un apartado de coevaluación donde describas qué hizo bien tu compañero, qué puede mejorar, y si hubo algún aspecto técnico o de calidad que resaltar.
-Adjunta esta coevaluación en formato de texto claro y objetivo.
+Mi compañera de trabajo, Lizeth Ramírez Ramírez, estudia la carrera de Desarrollo de Software, al igual que yo. Juntos estamos desarrollando un prototipo el cual se trata de un muñeco de un ciervo, equipado
+con sensores que le darán movimiento. A continuación mostraré observaciónes con respecto a su trabajo en equipo así como aportaciones.
+- Esta atenta a las necesidades del equipo, ya que pregunta y da su opnión acerca de las diferentes funcionalidades del proyecto.
+- Esta dispuesta a brindar de su tiempo cuando se presenta alguna necesidad del proyecto.
+- Aplica su conocimiento sobre el lenguaje de programación haciendo uso de códigos para progamar diferentes tipos de sensores y componentes eléctricos.
+- Demuestra control de estrés y ansiedad. 
+- Apoya a su compañero cuando se le demuestra alguna dificultad.
+- Puede hacer más uso de voz al cuestionar desiciones que se están planeando.
 
-
-
+En conclusión, le daré a mi compañera una nota de excelencia, 10/10.
