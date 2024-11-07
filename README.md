@@ -111,9 +111,9 @@ En conjunto, estos principios básicos de Python serán fundamentales para hacer
 ##  Coevaluación
 Mi compañera de trabajo, Lizeth Ramírez Ramírez, estudia la carrera de Desarrollo de Software, al igual que yo. Juntos estamos desarrollando un prototipo el cual se trata de un muñeco de un ciervo, equipado
 con sensores que le darán movimiento. A continuación mostraré observaciónes con respecto a su trabajo en equipo así como aportaciones.
-- Esta atenta a las necesidades del equipo, ya que pregunta y da su opnión acerca de las diferentes funcionalidades del proyecto.
+- Esta atenta a las necesidades del equipo, ya que pregunta y da su opinión acerca de las diferentes funcionalidades del proyecto.
 - Esta dispuesta a brindar de su tiempo cuando se presenta alguna necesidad del proyecto.
-- Aplica su conocimiento sobre el lenguaje de programación haciendo uso de códigos para progamar diferentes tipos de sensores y componentes eléctricos.
+- Aplica su conocimiento sobre el lenguaje de programación haciendo uso de códigos para programar diferentes tipos de sensores y componentes eléctricos.
 - Demuestra control de estrés y ansiedad. 
 - Apoya a su compañero cuando se le demuestra alguna dificultad.
 - Puede hacer más uso de voz al cuestionar desiciones que se están planeando.
